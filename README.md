@@ -1,6 +1,6 @@
 # OpenCore - Dell Latitude 7390
 
-OpenCore EFI configuration for ASUS ROG STRIX B460-I
+OpenCore EFI configuration for Dell Latitude 7390
 
 ## OpenCore Version
 
